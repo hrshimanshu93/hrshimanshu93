@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Kumar
-- 👀 I’m interested in Data science and Analytics as we know wverytime we talk to data they gives some useful hidden information.
+- 👀 I’m interested in Data science and Analytics as we know everytime we talk to data they gives some useful hidden information.
 - 🌱 I’m currently learning Data science and Machine learning
 - 💞️ I’m looking to collaborate on Data science and Machine learning Project.
 - 📫 How to reach me 
